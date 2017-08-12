@@ -6,4 +6,4 @@ C++ http server samples based on libevent
 - [Свой http-сервер менее чем в 40 строк кода на libevent и C++11](https://habrahabr.ru/post/217437/)  
 
 **NOTE:**  
-The [MIF](https://github.com/tdv/mif)   project includes some of the ideas from this test project
+The [MIF](https://github.com/tdv/mif) project includes as part a some ideas from this test project for http transport demonstrated in [http](https://github.com/tdv/mif/tree/master/examples/http) example.  
