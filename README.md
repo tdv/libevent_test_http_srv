@@ -1,2 +1,2 @@
 # libevent_test_http_srv
-Http server samples based on libevent
+C++ http server samples based on libevent
